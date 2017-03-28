@@ -1,0 +1,40 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+.container{
+    margin: 0 auto;
+    width: 100%;
+    max-width: 720px;
+}
+header{
+    margin: 0;
+    padding: 10px;
+}
+
+.foto-section{
+   float: left;
+    padding:  4px;
+    width:30%;
+    max-width: 200px;
+    min-width: 30px;
+    margin: 1em;
+    height: 100%;
+
+}
+.foto-section .foto{
+    width: 90%;
+
+}
+
+address{
+    float: right;
+
+}
+
+article{
+    margin: 3em;
+    display: inline;
+}
+
+
